@@ -47,3 +47,4 @@ And my main response, leaving aside all my techie weirdness, is that the best wa
 - [Pandoc](https://pandoc.org)
 - [CommonMark](https://commonmark.org)
 - The folks over at [Standard Ebooks](https://standardebooks.org) are making high-quality ebooks, and it's a great resource. We will need to develop our own typography manual, and we may want to borrow a lot from [theirs](https://standardebooks.org/contribute/typography).
+- Great write-up [here](https://medium.com/programmers-developers/building-books-with-markdown-using-pandoc-f0d19df7b2ca) on how to turn Markdown into a great epub. Github repo [here](https://github.com/johnpaulada/pandoc-markdown-book-template). This is really great because I'm pretty confident about just using this markdown format - single file for the entire book.
